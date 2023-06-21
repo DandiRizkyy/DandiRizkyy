@@ -1,9 +1,11 @@
 ### Hi there, I'm Dandi 👋👋
+
 You can call me Dan.
 
-Right now im pursuing my dream to become software engineer
+Right now im pursuing my dream to become software engineer.
 
-
+- 🌱 I’m currently study fullstack software engineering at Revou
+- 💻 HTML, CSS, Javascript, Typescript, TailwindCss, Typescript, React, React Native, Nestjs, PrismaORM, Postgresql, git, RESTful API, Graphql, docker.
 <!--
 **DandiRizkyy/DandiRizkyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
