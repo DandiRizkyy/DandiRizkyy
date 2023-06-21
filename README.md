@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Dandi 👋👋
+You can call me Dan.
+
+Right now im pursuing my dream to become software engineer
+
 
 <!--
 **DandiRizkyy/DandiRizkyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
