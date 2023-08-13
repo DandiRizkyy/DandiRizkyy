@@ -13,8 +13,7 @@ Right now im pursuing my dream to become software engineer.
 
 <p align="center"> <img src="https://raw.githubusercontent.com/DandiRizkyy/w0-my-profile-DandiRizkyy/main/assets/me.jpg" width="350"/></p>
 
-Hello ! 
-<p>My name is Dandi Rizky Eko Saputro, you can call me Dan 👋
+<p>My name is Dandi Rizky, you can call me Dan 👋
 
 Im based in Surabaya. I was graduated from SMK Sejahtera Surabaya (Teknik Komputer Jaringan) and Business English Study Program (D3) Politeknik Ubaya Surabaya. I love doing "computer" things since elementary school and from this day i will pursuing my dream becoming software engineer and web developer for real :) 
 
@@ -36,7 +35,7 @@ I wish I could mixed them all into something big in the future :>
 
 ## <p align ="center">💼 My Technical Skills
 ---
-<p><img height="200" title="HTML" alt="HTML" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/html-5.svg">
+<p><img height="150" title="HTML" alt="HTML" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/html-5.svg">
 
 1. Code Editor and Visual Studio Code <p><img height="20" title="VSCode" alt="VS Code Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
 
