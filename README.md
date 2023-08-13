@@ -1,4 +1,4 @@
-# <p align = "center">Hello Amazing People ~ <img src="https://raw.githubusercontent.com/DandiRizkyy/slackmoji/master/emoji/blob/blob-wave-gif.gif" width="50px" height="50px" alt="hello"> ✨
+# <p align = "center">Hello Amazing People ✨
 
 <p>My name is Dandi Rizky, you can call me Dan 👋
 
