@@ -14,9 +14,9 @@ Right now im pursuing my dream to become software engineer.
 <p align="center"> <img src="https://raw.githubusercontent.com/DandiRizkyy/w0-my-profile-DandiRizkyy/main/assets/me.jpg" width="350"/></p>
 
 Hello ! 
-<p>My name is Dandi Rizky Eko Saputro, you can call me Dandi. Currently learning Software Engineering at RevoU.
+<p>My name is Dandi Rizky Eko Saputro, you can call me Dan 👋
 
-Im based in Surabaya. I was graduated from Business English Study Program (D3) Politeknik Ubaya Surabaya. I love doing "computer" things since elementary school and from this day i will pursuing my dream becoming software engineer and web developer for real :) 
+Im based in Surabaya. I was graduated from SMK Sejahtera Surabaya (Teknik Komputer Jaringan) and Business English Study Program (D3) Politeknik Ubaya Surabaya. I love doing "computer" things since elementary school and from this day i will pursuing my dream becoming software engineer and web developer for real :) 
 
 I have strong interest in Programming, Gaming, Digital Marketing, Editting, Voice Acting, Filming, Reading Books, Piano and Classical Music. 
 
@@ -27,27 +27,13 @@ I wish I could mixed them all into something big in the future :>
 -----
 - Facebook : <details><summary>Open Link</summary>
 [<p>Dandi Rizky Eko Saputro</p>](https://www.facebook.com/dandirizkyy94/)
-![Facebook Photo]("https://raw.githubusercontent.com/DandiRizkyy/w0-my-profile-DandiRizkyy/main/assets/me.jpg")
+
 
 - Instagram : <details><summary>Open Link</summary>
 [<p>@dand_ndi</p>](https://www.instagram.com/dand_ndi/?hl=id)
-![<p align="center">Instagram Photo</p>](./assets/myinstagram.png)
-
-
-- YouTube : <details><summary>Open Link</summary>[<p>Danzyko</p>](https://www.youtube.com/@Danzyko/about)
-![YouTube Photo](./assets/myyt.png)
-
-- Linktree : <details><summary>Open Link</summary>[<p>link.tree/Danzyko</p>](https://linktr.ee/Danzyko?fbclid=IwAR1lXNo3tazSDnpp9comVpR_2bT0GcANjvOfU1PFdTBi5qZkrdgw0jLNs6M)
-![linktree Photo](./assets/mylinktree.png)
 
 - LinkedIn : <details><summary>Open Link</summary>[<p>Dandi Rizky</p>](https://www.linkedin.com/in/dandirizkyy/)
-![Linkedin Photo](./assets/mylinkedin.png)
 
-- Github : <details><summary>Open Link</summary>[<p>DandiRizkyy</p>](https://github.com/DandiRizkyy)
-![Github Photo](./assets/mygithub.png)
-
-- Discord : <details><summary>Open Link</summary>[<p>Dann#4013</p>](https://discord.gg/u838aV7m2E)
-![Discord Photo](./assets/mydiscord.png)
 
 ---
 ## <p align = "center">🎬 Some of My Youtube Videos
