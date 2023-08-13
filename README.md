@@ -36,7 +36,7 @@ I wish I could mixed them all into something big in the future :>
 ## <p align ="center">💼 My Technical Skills
 ---
 <p><img height="100" title="HTML" alt="HTML" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/html-5.svg">
-<p><img height="100" title="CSS" alt="CSS" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/css-3.svg">
+<img height="100" title="CSS" alt="CSS" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/css-3.svg">
 
 
 1. Code Editor and Visual Studio Code <p><img height="20" title="VSCode" alt="VS Code Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
