@@ -27,7 +27,7 @@ I wish I could mixed them all into something big in the future :>
 -----
 - Facebook : <details><summary>Open Link</summary>
 [<p>Dandi Rizky Eko Saputro</p>](https://www.facebook.com/dandirizkyy94/)
-![Facebook Photo]("https://raw.githubusercontent.com/DandiRizkyy/w0-my-profile-DandiRizkyy/main/assets/me.jpg")
+![Facebook Photo](https://github.com/DandiRizkyy/w0-my-profile-DandiRizkyy/blob/main/assets/me.jpg?raw=true)
 
 - Instagram : <details><summary>Open Link</summary>
 [<p>@dand_ndi</p>](https://www.instagram.com/dand_ndi/?hl=id)
