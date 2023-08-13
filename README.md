@@ -5,7 +5,7 @@ You can call me Dan.
 Right now im pursuing my dream to become software engineer.
 
 - 🌱 I’m currently study fullstack software engineering at Revou
-- 💻 HTML, CSS, Javascript, Typescript, TailwindCss, React, React Native, Nestjs, PrismaORM, Postgresql, git, RESTful API, Graphql, docker.
+
 
 # <p align = "center">Hello Amazing People ~ <img src="https://raw.githubusercontent.com/DandiRizkyy/slackmoji/master/emoji/blob/blob-wave-gif.gif" width="50px" height="50px" alt="hello">
 
@@ -35,13 +35,15 @@ I wish I could mixed them all into something big in the future :>
 
 ## <p align ="center">🚀 My Tech Stack
 ---
+- 💻 HTML, CSS, Javascript, Typescript, TailwindCss, React, Nestjs, PrismaORM, Postgresql, git, RESTful API, Graphql, docker.
+
 <p><img height="100" title="HTML" alt="HTML" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/html-5.svg">
 <img height="100" title="CSS" alt="CSS" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/css-3.svg">
 <img height="100" title="javascript" alt="javascript" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/javascript.svg">
 <img height="100" title="typescript" alt="typescript" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/typescript-icon.svg">
 <img height="100" title="tailwindcss" alt="tailwindcss" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/tailwindcss-icon.svg">
 <img height="100" title="react" alt="react" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/react.svg">
-<img height="100" title="nextjs" alt="nextjs" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nextjs-icon.svg">
+<img height="100" title="nextjs" alt="nextjs" src="https://raw.githubusercontent.com/revou-fsse-1/w0-my-profile-aldwiputra/main/images/next-js.png">
 <img height="100" title="docker" alt="docker" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/docker-icon.svg">
 <img height="100" title="vercel" alt="vercel" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/vercel.svg">
 <img height="100" title="netlify" alt="netlify" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/netlify.svg">
