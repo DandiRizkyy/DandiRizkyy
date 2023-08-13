@@ -11,7 +11,7 @@ Right now im pursuing my dream to become software engineer.
 
 
 
-<p align="center"> <img src="./assets/me.jpg" width="350"/></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/DandiRizkyy/w0-my-profile-DandiRizkyy/main/assets/me.jpg" width="350"/></p>
 
 Hello ! 
 <p>My name is Dandi Rizky Eko Saputro, you can call me Dandi. Currently learning Software Engineering at RevoU.
