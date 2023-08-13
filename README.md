@@ -41,7 +41,7 @@ I wish I could mixed them all into something big in the future :>
 <img height="100" title="typescript" alt="typescript" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/typescript-icon.svg">
 <img height="100" title="tailwindcss" alt="tailwindcss" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/tailwindcss-icon.svg">
 <img height="100" title="react" alt="react" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/react.svg">
-<img height="100" title="nextjs" alt="nextjs" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nextjs.svg">
+<img height="100" title="nextjs" alt="nextjs" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nextjs-icon.svg">
 <img height="100" title="docker" alt="docker" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/docker-icon.svg">
 <img height="100" title="vercel" alt="vercel" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/vercel.svg">
 <img height="100" title="netlify" alt="netlify" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/netlify.svg">
