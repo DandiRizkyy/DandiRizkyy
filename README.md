@@ -33,10 +33,24 @@ I wish I could mixed them all into something big in the future :>
 
 - LinkedIn : <details><summary>Open Link</summary>[<p>Dandi Rizky</p>](https://www.linkedin.com/in/dandirizkyy/)
 
-## <p align ="center">💼 My Technical Skills
+## <p align ="center">🚀 My Tech Stack
 ---
 <p><img height="100" title="HTML" alt="HTML" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/html-5.svg">
 <img height="100" title="CSS" alt="CSS" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/css-3.svg">
+<img height="100" title="javascript" alt="javascript" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/javascript.svg">
+<img height="100" title="typescript" alt="typescript" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/typescript-icon.svg">
+<img height="100" title="tailwindcss" alt="tailwindcss" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/tailwindcss-icon.svg">
+<img height="100" title="react" alt="react" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/react.svg">
+<img height="100" title="nextjs" alt="nextjs" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nextjs.svg">
+<img height="100" title="docker" alt="docker" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/docker-icon.svg">
+<img height="100" title="vercel" alt="vercel" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/vercel.svg">
+<img height="100" title="netlify" alt="netlify" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/netlify.svg">
+<img height="100" title="gcp" alt="gcp" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/google-cloud-platform.svg">
+<img height="100" title="nestjs" alt="nestjs" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nestjs.svg">
+<img height="100" title="prisma" alt="prisma" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/prisma.svg">
+<img height="100" title="postgre" alt="postgre" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/postgresql.svg">
+<img height="100" title="git" alt="git" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/git.svg">
+<img height="100" title="github" alt="github" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/github-icon.svg">
 
 
 1. Code Editor and Visual Studio Code <p><img height="20" title="VSCode" alt="VS Code Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
