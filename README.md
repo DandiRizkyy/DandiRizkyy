@@ -6,7 +6,7 @@
 
 <p>My name is Dandi Rizky, you can call me Dan 👋
 
-Im based in Surabaya. I was graduated from SMK Sejahtera Surabaya (Teknik Komputer Jaringan) and Business English Study Program (D3) Politeknik Ubaya Surabaya. I love doing "computer" things since elementary school and from this day i will pursuing my dream becoming software engineer and web developer for real :) 
+Im based in Surabaya. I was graduated from Computer Network Engineering SMK Sejahtera Surabaya and Business English Study Program (D3) Politeknik Ubaya Surabaya. I love doing "computer" things since elementary school and from this day i will pursuing my dream becoming software engineer and web developer for real :) 
 
 I have strong interest in Programming, Gaming, Digital Marketing, Editting, Voice Acting, Filming, Reading Books, Piano and Classical Music. 
 
