@@ -34,30 +34,6 @@ I wish I could mixed them all into something big in the future :>
 
 - LinkedIn : <details><summary>Open Link</summary>[<p>Dandi Rizky</p>](https://www.linkedin.com/in/dandirizkyy/)
 
-
----
-## <p align = "center">🎬 Some of My Youtube Videos
----
-<img align="left" src="https://media.tenor.com/Nqp7u4Oi1voAAAAC/pointing-anime.gif" width="300" height="200" />
-
-<a href="https://www.youtube.com/embed/XMTjWsN4OfI" target="_blank">
- <img src="./assets/ytcover2.png" alt="Watch the video" width="300" height="200" />
-</a>
-
-<img align="left" src="https://media.tenor.com/QpNqIXp1fFAAAAAM/epic-gamer-moves-pointing.gif" width="300" height="200" />
-
-<a href="https://www.youtube.com/embed/ULYp-qjuM6w" target="_blank">
- <img src="./assets/ytcover1.png" alt="Watch the video" width="300" height="200" />
-</a>
-
-<img align="left" src="https://media.tenor.com/cehm5654j8EAAAAC/hu-tao-genshin.gif" width="300" height="200" />
-
-<a href="https://www.youtube.com/embed/1Cbu7IhZxys" target="_blank">
- <img src="./assets/ytcover3.png" alt="Watch the video" width="300" height="200" />
-</a>
-
-
----
 ## <p align ="center">💼 My Technical Skills
 ---
 1. Code Editor and Visual Studio Code <p><img height="20" title="VSCode" alt="VS Code Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
