@@ -1,5 +1,5 @@
 # <p align = "center">Hi Amazing People ✨
-![My hero academia](https://64.media.tumblr.com/a4541e6d1cb4a96cb5e2e28a28a9852e/d7b183c9fc8b6deb-65/s540x810/b4d7c9c7f5bdd6184bca3764f0e6a19b72d7cc5b.gif)
+<p align = "center">![My hero academia](https://64.media.tumblr.com/a4541e6d1cb4a96cb5e2e28a28a9852e/d7b183c9fc8b6deb-65/s540x810/b4d7c9c7f5bdd6184bca3764f0e6a19b72d7cc5b.gif)
 
 <p>My name is Dandi Rizky, you can call me Dan 👋
 
