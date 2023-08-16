@@ -1,7 +1,5 @@
 # <p align = "center">Hi Amazing People ✨
 
-<p align="center"> <img src="https://64.media.tumblr.com/a4541e6d1cb4a96cb5e2e28a28a9852e/d7b183c9fc8b6deb-65/s540x810/b4d7c9c7f5bdd6184bca3764f0e6a19b72d7cc5b.gif" width="350"/></p>
-
 <p>My name is Dandi Rizky, you can call me Dan 👋
 
 Im based in <b>Surabaya, Indonesia.</b>  I was graduated from <b>Computer Network Engineering</b> SMK Sejahtera Surabaya, <b>Business English Study Program</b> (D3) Politeknik Ubaya Surabaya and <b>Fullstack Software Engineering</b> RevoU Bootcamp Program. I love doing "computer" things since elementary school and from this day i will pursuing my dream becoming software developer / engineer and web developer for real :) 
@@ -9,6 +7,8 @@ Im based in <b>Surabaya, Indonesia.</b>  I was graduated from <b>Computer Networ
 I have strong interest in Programming, AI, Gaming, Digital Marketing, Editting, Voice Acting, Filming, Reading Books, Piano and Classical Music. 
 
 I wish I could mixed them all into something big in the future 😆
+
+<p align="center"> <img src="https://64.media.tumblr.com/a4541e6d1cb4a96cb5e2e28a28a9852e/d7b183c9fc8b6deb-65/s540x810/b4d7c9c7f5bdd6184bca3764f0e6a19b72d7cc5b.gif" width="350"/></p>
 
 -----
 ## <p align = "center"> 📫 Connect With Me  
