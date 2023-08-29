@@ -24,7 +24,7 @@ I wish I could mixed them all into something big in the future 😆
 
 ## <p align ="center">🚀 My Tech Stack
 ---
-- 💻 HTML, CSS, Javascript, Typescript, TailwindCss, React, Nestjs, PrismaORM, Postgresql, git, RESTful API, Graphql, docker.
+- 💻 HTML · CSS · Javascript · Typescript · Tailwindcss · ReactJs · NextJs · Vite · Vercel · Netlify · GCP (Google Cloud) · ExpressJs · NestJs · PrismaORM · PostgreSQL · RESTful API · GraphQl · Docker · Git · Github 
 
 <p><img height="65" title="HTML" alt="HTML" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/html-5.svg">
 <img height="65" title="CSS" alt="CSS" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/css-3.svg">
