@@ -2,9 +2,9 @@
 
 <p>My name is Dandi Rizky, you can call me Dan 👋
 
-Im based in <b>Surabaya, Indonesia.</b>  I was graduated from <b>Computer Network Engineering</b> SMK Sejahtera Surabaya, <b>Business English Study Program</b> (D3) Politeknik Ubaya Surabaya and <b>Fullstack Software Engineering</b> RevoU Bootcamp Program. I love doing "computer" things since elementary school and from this day i will pursuing my dream becoming software developer / engineer and web developer for real :) 
+Im based in <b>Surabaya, Indonesia.</b>  I was graduated from <b>Computer Network Engineering</b> SMK Sejahtera Surabaya, <b>Business English Study Program</b> (D3) Politeknik Ubaya Surabaya and <b>Fullstack Software Engineering</b> RevoU Bootcamp Program. I love doing "computer" things since elementary school :) 
 
-I have strong interest in Programming, Cloud, Artificial Intelligence, Gaming, Digital Marketing, Editting, Voice Acting, Filming, Reading Books, Piano and Classical Music. 
+I have strong interest in Programming, Cloud, Artificial Intelligence, QA, Technical Writing, Gaming, Digital Marketing, Editting, Voice Acting, Filming, Reading Books, Piano and Classical Music. 
 
 I wish I could mixed them all into something big in the future 😆
 
