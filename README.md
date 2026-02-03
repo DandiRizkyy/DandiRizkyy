@@ -43,11 +43,6 @@ I wish I could mixed them all into something big in the future 😆
 <img height="65" title="git" alt="git" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/git.svg">
 <img height="65" title="github" alt="github" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/github-icon.svg">
 
-## <h1 align ="center">📈 Stats </h1>
----
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DandiRizkyy&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="450"/></p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DandiRizkyy&theme=dracula&hide_border=true" width="450"/></p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandiRizkyy&theme=dracula&show_icons=true&hide_border=true&layout=compact" width="450"/></p>
 
 
 
